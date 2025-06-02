@@ -1,5 +1,5 @@
 /*
-*Constants
+*Constants for unchanging values
 */
 const TILE_SIZE = 16;
 
